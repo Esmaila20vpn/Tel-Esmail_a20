@@ -14,3 +14,5 @@ vless://14bda692-3e41-4df0-a04b-ae2225760e7b@104.31.16.8:80?path=%2Fbackup&secur
 vless://45d9a5ff-9f62-4198-9f7c-12300c9f9653@173.245.49.227:80?path=%2Fbackup&security=none&encryption=none&host=bags.digikala.network&type=ws#%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+H13
 vless://92036abc-eae1-4f6f-ba11-649614546094@104.31.16.197:80?path=%2Fbackup&security=none&encryption=none&host=archiTectURe.MaHDaVIat.uk&type=ws#%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+H14
 vless://a7d74dba-ae00-4dc6-be18-47b6ffe0fcbe@104.24.255.191:80?path=%2Fbackup&security=none&encryption=none&host=SuSTaiNabilITY.rUBiKA.spaCe&type=ws#%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+H15
+
+vless://9df853bc-c904-4456-87e0-a869becab89e@185.143.234.40:80?path=%2F&security=none&encryption=none&host=ar8.far30team.sbs&type=ws#%28%40Esmail_a20%29-T88-30Gb+Tt
