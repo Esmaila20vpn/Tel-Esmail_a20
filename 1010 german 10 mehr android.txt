@@ -17,3 +17,5 @@ vless://92036abc-eae1-4f6f-ba11-649614546094@104.31.16.197:80?path=%2Fbackup&sec
 vless://a7d74dba-ae00-4dc6-be18-47b6ffe0fcbe@104.24.255.191:80?path=%2Fbackup&security=none&encryption=none&host=SuSTaiNabilITY.rUBiKA.spaCe&type=ws#%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+H15
 
 vless://2615c5d0-8ddd-4e36-a096-18764e222e3e@185.143.234.40:80?path=%2F&security=none&encryption=none&host=ar11.far30team.sbs&type=ws#%28%40Esmail_a20%29-
+
+vless://1f94bb97-87f9-475e-a871-01f29c68b673@185.143.234.40:80?path=%2F&security=none&encryption=none&host=ar9.far30team.sbs&type=ws#%E2%9C%85%28%40Esmail_a20%29-K100++%D8%AA%D9%85%D8%A7%D9%85+%D8%AE%D8%B7%D9%88%D8%B7
