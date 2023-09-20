@@ -15,3 +15,4 @@ vless://0d1e6a36-da12-44e2-f636-c11c75a9cd93@104.31.16.197:80?path=%2Fbackup&sec
 vless://0d1e6a36-da12-44e2-f636-c11c75a9cd93@mccipo2.aparat.bio:80?path=%2Fbackup&security=none&encryption=none&host=rELiGIOn.mahdaVIat.Uk&type=ws#%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+M14
 vless://0d1e6a36-da12-44e2-f636-c11c75a9cd93@104.31.16.8:80?path=%2Fbackup&security=none&encryption=none&host=rELiGIOn.mahdaVIat.Uk&type=ws#%D9%87%D9%85%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+M15
 
+vless://6b0f1b38-122f-4325-addc-3b2ede0f430f@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=skyroom.online.ge6.far30tm.click&fp=safari&type=http&sni=skyroom.online#%E2%9C%85%28%40Esmail_a20%29-K300+-+%D9%85%D8%AA%D8%B5%D9%84
