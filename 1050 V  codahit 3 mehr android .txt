@@ -34,3 +34,6 @@ vless://12bfb496-ca88-4569-b94f-c347f70d60ac@45.12.30.3:80?path=%2Fbackup&securi
 
 
 vless://12bfb496-ca88-4569-b94f-c347f70d60ac@173.245.58.133:80?path=%2Fbackup&security=none&encryption=none&host=cuLTURE.BlackMastEr.org&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+P11
+
+
+vless://fc55ce23-be17-4a3b-809d-eb4a9421657b@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=skyroom.online.ge6.far30tm.click&fp=safari&type=http&sni=skyroom.online#%E2%9C%85%28%40Esmail_a20%29-K500++%D9%85%D8%AA%D8%B5%D9%84
