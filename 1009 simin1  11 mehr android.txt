@@ -25,3 +25,5 @@ vless://110b53a0-3f93-4a5a-9298-2d473d3f0dc2@185.146.173.20:80?path=%2Fbackup&se
 vless://110b53a0-3f93-4a5a-9298-2d473d3f0dc2@104.31.16.197:80?path=%2Fbackup&security=none&encryption=none&host=COoKING.bLACkmaSTER.Org&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%B9%F0%9F%87%B7+%28%40Esmail_a20%29+-+E7
 
 vless://cf26ff4a-6dae-4597-8bae-ceb440afdc11@mosh114.test88993388.xyz:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7+%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+E8
+
+vless://7df74a7a-7076-55ee-b0ef-0448d9a0a884@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=skyroom.online.ge6.far30tm.click&fp=safari&type=http&sni=skyroom.online.ge6.far30tm.click#%E2%9C%85%28%40Esmail_a20%29-K600+++%D8%AA%D9%85%D8%A7%D9%85+%D8%AE%D8%B7%D9%88%D8%B7
