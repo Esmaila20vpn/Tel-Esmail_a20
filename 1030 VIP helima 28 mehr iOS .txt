@@ -2,6 +2,7 @@ vmess://eyJhZGQiOiIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6
 
 vless://9cb10094-4cea-41c8-9d09-6d523b2b66af@104.31.16.8:80?path=%2Fbackup&security=none&encryption=none&host=fAMILy.amooZeSHgaH-com.cOM&type=ws#%E2%9C%85%28%40Esmail_a20%29-+A100+%D8%AA%D9%85%D8%A7%D9%85+%D8%AE%D8%B7%D9%88%D8%B7
 
+vless://cb7e5d38-e578-56da-a461-666e6c864f03@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=skyroom.online.ge6.far30tm.click&fp=safari&type=http&sni=skyroom.online.ge6.far30tm.click#%E2%9C%85%28%40Esmail_a20%29-+A200+%D8%AA%D9%85%D8%A7%D9%85+%D8%AE%D8%B7%D9%88%D8%B7
 
 vmess://eyJhZGQiOiJzdzEwLmFsbGFhbnNlbGwub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiI0ZDYzZGU5YS1hYTM2LTQwODYtOWJiNy02MWZiNDRjNGUwZTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiLYqtmF2KfZheKAjNiu2LfZiNi38J+HuPCfh6ogKEBFc21haWxfYTIwKS0gSzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 
