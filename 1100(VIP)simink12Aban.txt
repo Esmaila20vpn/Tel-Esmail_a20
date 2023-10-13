@@ -38,3 +38,12 @@ vless://17b423f2-4351-48fe-cc4c-5d932f08c0c1@104.23.139.0:80?path=mafatiholjenan
 
 
 vless://17b423f2-4351-48fe-cc4c-5d932f08c0c1@185.146.173.20:80?path=mafatiholjenan-application&security=none&encryption=none&host=sOFtWareengineerINg.aMOozeSHGaH-PC.cOM&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+K13
+
+
+vless://cb7e5d38-e578-56da-a461-666e6c864f03@185.143.233.5:443?path=%2F&security=tls&encryption=none&host=skyroom.online.ge6.far30tm.click&fp=safari&type=http&sni=skyroom.online.ge6.far30tm.click#%E2%9C%85%28%40Esmail_a20%29-+A100+%D8%AA%D9%85%D8%A7%D9%85+%D8%AE%D8%B7%D9%88%D8%B7
+
+vless://ef39f467-37ed-4cae-9467-24b098fb413f@172.67.229.179:80?path=%2Fbackup&security=none&encryption=none&host=AerO.tAHArAT.app&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+A200
+
+vless://f00894b9-7ce9-4074-82a6-14c902ec9a3b@173.245.59.16:80?path=%2Fbackup&security=none&encryption=none&host=aSia.OppenuP.CoM&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+A300
+
+vless://bd08599d-e254-4b3c-99be-0d952c79b7fe@mosh114.test88993388.xyz:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7+%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+A400
