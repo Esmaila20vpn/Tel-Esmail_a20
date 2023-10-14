@@ -15,9 +15,6 @@ vless://9cb10094-4cea-41c8-9d09-6d523b2b66af@104.31.16.8:80?path=%2Fbackup&secur
 vless://793eb95e-cf80-4755-9060-acc99c85051b@104.31.16.197:80?path=%2Fbackup&security=none&encryption=none&host=instItUTE.RUBIKa.SPACE&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+K5
 
 
-vless://edd3dff8-b89a-49fc-a530-0afe83a4a9d8@104.21.25.0:80?path=%2Fbackup&security=none&encryption=none&host=Help.spaMDETECTOr.WORlD&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+K6
-
-
 vless://9cb10094-4cea-41c8-9d09-6d523b2b66af@104.23.139.0:80?path=%2Fbackup&security=none&encryption=none&host=fAMILy.amooZeSHgaH-com.cOM&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+K7
 
 
