@@ -26,3 +26,11 @@ vless://daa7584a-5844-4947-ecad-64f64b9cb110@185.146.173.20:80?path=mafatiholjen
 
 
 vless://af219a06-cf02-4b7e-abdf-7733b94d8da2@104.24.255.191:80?path=%2Fbackup&security=none&encryption=none&host=once.AmOOZeSHGAH-PC.coM&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+G10
+
+vless://ad3f7289-736b-4d0d-840f-a6719c884f33@mosh114.test88993388.xyz:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+G11
+
+vless://97e1b7e2-5f52-422c-8a56-986c50512606@104.31.16.9:80?path=%2Fbackup&security=none&encryption=none&host=FoREstRY.BAlE.bIO&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+G12
+
+vless://6700013e-5039-4459-b20c-cc8ad4d781dd@104.21.25.0:80?path=%2Fbackup&security=none&encryption=none&host=tOP.amoOZesHgAH-pc.Com&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+G13
+
+vless://2acf213e-9911-449d-a9e4-7c33d09e8119@104.23.139.0:80?path=%2Fbackup&security=none&encryption=none&host=DiGiTAL.Dl-APARAT.Com&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+G14
