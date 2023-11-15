@@ -19,3 +19,5 @@ vless://b6f791ad-33a1-4955-8532-6a78ef8bcc8c@45.131.210.227:80?path=%2Fbackup&se
 vless://f9f6836a-dfd8-44a3-e0db-f41e8a47665b@154.84.175.91:80?path=mafatiholjenan-application&security=none&encryption=none&host=sOFtWareengineerINg.aMOozeSHGaH-PC.cOM&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+T6
 
 vless://a81f2ba7-4fd4-4b6a-b9c3-83a08797cca9@mcm.test9898111.xyz:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+T7
+
+vless://a4f3af91-1a64-4e78-b55a-6e3a1d959f85@mcm.test88993388.xyz:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+X2
