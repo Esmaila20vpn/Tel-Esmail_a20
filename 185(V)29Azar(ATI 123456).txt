@@ -29,3 +29,5 @@ vless://a715c69a-0716-4da9-b7b4-e60748334094@172.67.229.179:80?path=%2Fbackup&se
 
 
 vless://04e18f5e-44b3-42db-bcf1-be01bc68fac6@185.146.173.20:80?path=%2Fbackup&security=none&encryption=none&host=GAMEs.dl-vsCOdE.com&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+C10
+
+vless://a81f2ba7-4fd4-4b6a-b9c3-83a08797cca9@mcm.test9898111.xyz:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29+-+C11
