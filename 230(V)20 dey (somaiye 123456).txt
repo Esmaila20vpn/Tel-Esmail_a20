@@ -2,7 +2,7 @@ vmess://eyJhZGQiOiIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6
 
 vless://6e99e06a-7cb6-4d5e-a23a-4c5812be6060@mccipo2.aparat.bio:80?path=%2Fbackup&security=none&encryption=none&host=FTGYc2.dL-onLiNeDOcToR.bio&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+F1
 
-vless://91f805ad-5580-461a-be98-adf649e5d849@QeRTCR.eitaa.bio:2052?path=%2F&security=none&encryption=none&host=oCVWsk.shAparak.Bio&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%40Vpnfree85+-+F2
+vless://91f805ad-5580-461a-be98-adf649e5d849@QeRTCR.eitaa.bio:2052?path=%2F&security=none&encryption=none&host=oCVWsk.shAparak.Bio&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+F2
 
 vless://27663cae-8f31-4d66-af65-a125056d4b2b@104.20.2.1:2052?path=%2F&security=none&encryption=none&host=RJNB46.amOoZeshgAH-pc.COM&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+F3
 
