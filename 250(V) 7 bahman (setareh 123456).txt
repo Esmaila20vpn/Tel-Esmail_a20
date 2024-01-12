@@ -48,3 +48,14 @@ vless://901dfa21-2345-4974-b67a-0dcc9d0b8838@[::ffff:9f45:d885]:26079?security=r
 
 
 vless://bcfa192a-b612-4fc2-f9aa-e93ed7e7b20c@172.67.26.210:80?path=%2F&security=none&encryption=none&host=S18Qmo.miCrOSoFTs.DOWNlOAd&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+H17
+
+
+vless://f3fad20f-24af-498e-af48-7e587d8e84f5@45.131.4.245:2052?path=%2F&security=none&encryption=none&host=RJNB46.amOoZeshgAH-pc.COM&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+H20
+
+vless://42cef9f5-a291-4bba-bdff-43728cc1c476@159.69.31.165:16190?security=reality&encryption=none&pbk=TZ36MbRlhM1WKiFmWDwgLG5B4IXKBnD-dvbEv8zt-gc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=canva.com&sid=bff05c8a#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+H21
+
+vless://62d10dd9-2f48-4c5c-a2ce-0001620f49a2@104.18.78.200:2052?path=%2F&security=none&encryption=none&host=home.khamenei.bio&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+H22
+
+vless://b7262336-9e4d-4bc3-8fc5-d064fe073367@172.67.26.210:2052?path=%2F&security=none&encryption=none&host=IAqQQA.diGIKALa.NETwOrK&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+Z23
+
+vless://bcfa192a-b612-4fc2-f9aa-e93ed7e7b20c@172.67.26.210:80?path=%2F&security=none&encryption=none&host=S18Qmo.miCrOSoFTs.DOWNlOAd&type=ws#%D8%AA%D9%85%D8%A7%D9%85%E2%80%8C%D8%AE%D8%B7%D9%88%D8%B7%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+H24
