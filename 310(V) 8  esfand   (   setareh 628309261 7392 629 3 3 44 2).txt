@@ -76,3 +76,5 @@ vless://4c265b29-2c7b-430d-8c22-3c045b8f19b1@teams.cloudflare.com:2052?path=%2F&
 
 
 vless://4c265b29-2c7b-430d-8c22-3c045b8f19b1@104.25.248.154:80?path=%2Fbackup&security=none&encryption=none&host=BhHfkA8U3cu6tXvTvj7x.oPEenuP.COm&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+K27
+
+vless://fc10bbb4-70b0-4c1d-93e5-5f0f1377a5e9@217.114.212.10:39829?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29+-+H100
