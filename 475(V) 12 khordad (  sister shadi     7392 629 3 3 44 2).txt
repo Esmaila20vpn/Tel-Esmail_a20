@@ -1,3 +1,9 @@
+vless://6e5e7c8b-0dd2-4bce-87e7-6bd922e9fd16@Education.samanmoney.com:443?path=%2FFct3NZBPXag2NMJVc2v7SP&security=tls&encryption=none&alpn=http/1.1&host=settings.samanmoney.com&fp=firefox&type=ws&sni=settings.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--W1000++%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3
+vless://6e5e7c8b-0dd2-4bce-87e7-6bd922e9fd16@Company.samanmoney.com:443?path=%2FFct3NZBPXag2NMJVc2v7SP&security=tls&encryption=none&alpn=http/1.1&host=has.samanmoney.com&fp=firefox&type=ws&sni=has.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--W10001+++%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3+%DB%B2
+
+vless://6e5e7c8b-0dd2-4bce-87e7-6bd922e9fd16@Record.samanmoney.com:443?path=%2FFct3NZBPXag2NMJVc2v7SP&security=tls&encryption=none&alpn=http/1.1&host=and.samanmoney.com&fp=firefox&type=ws&sni=and.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--W10003++%D8%B2%D8%A7%D9%BE%D8%A7%D8%B3+%DB%B3
+
+
 vmess://eyJhZGQiOiIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVlYzI2NWQyLTE0NWItNGYxYS05OWZhLWZhYWY1ODBjN2Y4YyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4OCIsInBzIjoi2qnYp9mG2YHbjNmG2q8g2YfYp9uMINmG2KfZhdit2K/ZiNivIFYg2KLZhdmI2LLYtCDZh9in24wg2YXYsdio2YjYt9mHINix2Kcg2KjYqNuM2YbbjNivINiz2b7YsyDZhdiq2LXZhCDYqNi024zYryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 
