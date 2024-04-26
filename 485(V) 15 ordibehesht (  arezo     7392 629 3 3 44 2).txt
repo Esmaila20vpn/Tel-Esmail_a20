@@ -107,4 +107,14 @@ vless://52de3fa6-1673-4918-a90d-21d2b69de98e@188.114.96.182:443?path=%2F%3Fed%3D
 
 vless://f22b09c9-5fa6-4ed7-992f-1dcbc4dba3ad@pardazesh12.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh12.pages.dev&fp=randomized&type=ws&sni=pardazesh12.pages.dev#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--H36
 
+vless://6adc40f7-5ecc-4e9d-8719-74af179e696f@education.samanmoney.com:443?path=%2FUcMiZBSSpFihhhTW5qjr&security=tls&encryption=none&alpn=http/1.1&host=sv4-1.samanmoney.com&fp=firefox&type=ws&sni=sv4-1.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--H37
 
+vless://6adc40f7-5ecc-4e9d-8719-74af179e696f@company.samanmoney.com:443?path=%2FUcMiZBSSpFihhhTW5qjr&security=tls&encryption=none&alpn=http/1.1&host=sv4-2.samanmoney.com&fp=firefox&type=ws&sni=sv4-2.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--H38
+
+vless://6adc40f7-5ecc-4e9d-8719-74af179e696f@mail.samanmoney.com:443?path=%2FUcMiZBSSpFihhhTW5qjr&security=tls&encryption=none&alpn=http/1.1&host=sv4-3.samanmoney.com&fp=firefox&type=ws&sni=sv4-3.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--H39
+
+vless://6adc40f7-5ecc-4e9d-8719-74af179e696f@record.samanmoney.com:443?path=%2FUcMiZBSSpFihhhTW5qjr&security=tls&encryption=none&alpn=http/1.1&host=sv4-4.samanmoney.com&fp=firefox&type=ws&sni=sv4-4.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--H40
+.
+vless://6adc40f7-5ecc-4e9d-8719-74af179e696f@prevent.samanmoney.com:443?path=%2FUcMiZBSSpFihhhTW5qjr&security=tls&encryption=none&alpn=http/1.1&host=sv4-5.samanmoney.com&fp=firefox&type=ws&sni=sv4-5.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--H41
+
+vless://6adc40f7-5ecc-4e9d-8719-74af179e696f@dashboard.samanmoney.com:443?path=%2FUcMiZBSSpFihhhTW5qjr&security=tls&encryption=none&alpn=http/1.1&host=sv4-6.samanmoney.com&fp=firefox&type=ws&sni=sv4-6.samanmoney.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--H42
