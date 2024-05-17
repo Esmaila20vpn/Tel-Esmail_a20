@@ -96,5 +96,15 @@ vless://90887cc1-fa87-4bbf-9acb-d4bfffa61805@185.146.173.77:8080?path=%2FMmdv2ra
 
 vless://90887cc1-fa87-4bbf-9acb-d4bfffa61805@185.146.173.77:8080?path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2048&security=none&encryption=none&host=ftp.samanoverlay.ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--C32
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnel.bluhearts.com:2610#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--C34
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnell.bluhearts.com:2612#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--C35
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnel.bluhearts.com:2613#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--C36
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnell.bluhearts.com:2614#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--C37
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnell.bluhearts.com:2615#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--C38
+
 
 vless://90887cc1-fa87-4bbf-9acb-d4bfffa61805@185.146.173.98:8080?path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D2048&security=none&encryption=none&host=www.samanpsd.ir.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--C33
