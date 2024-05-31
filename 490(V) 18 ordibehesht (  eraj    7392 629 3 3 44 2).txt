@@ -78,3 +78,20 @@ vless://f5c37457-9e75-4c85-98ee-7e64685d83b6@104.27.62.243:2082?path=%2FMmdv2ray
 
 
 vmess://eyJhZGQiOiJncjIuc2FtYW5tb25leS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTdhMDM4MTctMjRiMS00ZmY1LWExZjMtMDM3ZjUxNmRjZDU5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI2MCIsInBzIjoi8J+HqfCfh6ogKEVzbWFpbF9hMjApLS1TMjYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vless://d1e05eca-9cd3-4398-a173-ee02894687ab@rez.bluhearts.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=g.bluhearts.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S27
+
+
+vless://d1e05eca-9cd3-4398-a173-ee02894687ab@h2.bluhearts.com:20688?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=20688vless#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S28
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnell.bluhearts.com:2611#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S29
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnell.bluhearts.com:2612#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S30
+
+
+vless://d1e05eca-9cd3-4398-a173-ee02894687ab@rez.bluhearts.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=h.bluhearts.com#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S31
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnelll.bluhearts.com:2613#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S32
