@@ -96,3 +96,9 @@ vless://d1e05eca-9cd3-4398-a173-ee02894687ab@rez.bluhearts.com:8443?mode=gun&sec
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnelll.bluhearts.com:2613#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S32
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnel.bluhearts.com:2615#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S33
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnel.bluhearts.com:2614#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S34
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTGp4RU9XWW42YlhUNEFQajkta1dR@tunnell.bluhearts.com:2612#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--S35
