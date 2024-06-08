@@ -82,3 +82,14 @@ vless://f5c37457-9e75-4c85-98ee-7e64685d83b6@Blog.SamanMoney.CoM:8443?mode=gun&s
 
 
 vless://f5c37457-9e75-4c85-98ee-7e64685d83b6@Blog.SamanMoney.CoM:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=s3.k5n.ir.#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--X27
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnell.bluhearts.com:2611#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--X28+++%D9%85%D9%88%D8%A7%D8%B1%D8%AF+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnell.bluhearts.com:2612#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--X29+++%D9%85%D9%88%D8%A7%D8%B1%D8%AF+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnelll.bluhearts.com:2613#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--X30+++%D9%85%D9%88%D8%A7%D8%B1%D8%AF+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel.bluhearts.com:2614#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--X31+++%D9%85%D9%88%D8%A7%D8%B1%D8%AF+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel.bluhearts.com:2615#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--X32+++%D9%85%D9%88%D8%A7%D8%B1%D8%AF+%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1
