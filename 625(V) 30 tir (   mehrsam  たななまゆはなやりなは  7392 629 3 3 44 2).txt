@@ -86,3 +86,23 @@ vless://5faee3be-6b8f-4f26-8a28-26db219860c4@5.42.107.201:8692?mode=gun&security
 
 
 vless://5faee3be-6b8f-4f26-8a28-26db219860c4@146.75.73.57:80?path=%2FMmmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D1024&security=none&encryption=none&host=iranair.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q29
+
+
+vless://1a53381a-2f8a-4c0c-ac8a-53c2b7e2bad0@rez.bluhearts.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=h.bluhearts.com#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q30+++++%D9%81%D9%82%D8%B7
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel.bluhearts.com:2611#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q31+++++%D8%AC%D9%87%D8%AA
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnell.bluhearts.com:2612#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q32+++++++%D8%A2%D9%BE%D9%84%D9%88%D8%AF
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnellll.bluhearts.com:2614#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q33+++++%D9%88
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnelll.bluhearts.com:2617#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q34+++++++++%F0%9F%92%9C%E2%9D%A4%EF%B8%8F%F0%9F%9A%80
+
+
+vless://1a53381a-2f8a-4c0c-ac8a-53c2b7e2bad0@rez.bluhearts.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=t4.bluhearts.com#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q35+++++++%D9%85%D9%88%D8%A7%D8%B1%D8%AF
+
+
+vless://1a53381a-2f8a-4c0c-ac8a-53c2b7e2bad0@rez.bluhearts.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=ios&type=grpc&serviceName=abc&sni=g.bluhearts.com#%F0%9F%9F%A3%F0%9F%87%A9%F0%9F%87%AA+%28Esmail_a20%29--Q36++++++%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C
