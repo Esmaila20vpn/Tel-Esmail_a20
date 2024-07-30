@@ -88,3 +88,10 @@ vless://8521b469-70a1-4ed9-9620-b4f3d226407e@vip-75.f-sub.com:3789?security=none
 
 
 vless://8521b469-70a1-4ed9-9620-b4f3d226407e@vip-38.f-sub.com:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--K30
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel1.bluhearts.com:2611#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--K100+++%D8%A2%D9%BE%D9%84%D9%88%D8%AF
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel10.bluhearts.com:2612#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--K101+++%D8%A2%D9%BE%D9%84%D9%88%D8%AF
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel3.bluhearts.com:2613#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--K103++%D8%A2%D9%BE%D9%84%D9%88%D8%AF
