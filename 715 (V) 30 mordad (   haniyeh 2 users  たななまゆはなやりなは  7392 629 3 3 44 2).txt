@@ -94,3 +94,10 @@ vmess://eyJhZGQiOiI0NS43Ny4xNDEuMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 
 vless://6c7d722f-19f3-477f-882d-85f156f368d3@45.77.141.19:49075?security=none&encryption=none&headerType=none&type=quic&quicSecurity=none&key=UAycCZmIcY#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--S30
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel1.bluhearts.com:2611#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--S50
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGN245M0FDaDZENk5HeW1EQVpNSEd3@tunnel10.bluhearts.com:2612#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--S51
+
+vless://1a53381a-2f8a-4c0c-ac8a-53c2b7e2bad0@en.forredeye.com:20688?mode=gun&security=none&encryption=none&type=grpc&serviceName=20688vless#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--S52
