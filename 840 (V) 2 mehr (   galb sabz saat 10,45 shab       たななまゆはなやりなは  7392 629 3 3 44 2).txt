@@ -12,6 +12,9 @@ vless://5da8b32b-431d-4ee6-b600-609af2a35211@51.116.199.89:57687?security=none&e
 vmess://eyJhZGQiOiI1MS4xMTYuMTk5Ljg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiZWZmN2E2LTA0OGEtNDJlZC04NGUyLTFhYWUwOTRkMDc2ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ3MjAiLCJwcyI6IvCfh6nwn4eqKEBFc21haWxfYTIwKS0tRTQ1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 
+vless://26526031-3c01-4816-ab40-739bd6800938@vg-2.f-sub.com:8967?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--E46
+vless://26526031-3c01-4816-ab40-739bd6800938@vip-394.f-sub.com:4928?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--E47
+
 vless://1c4ccf71-9feb-4b42-87b8-2802fb159c09@136.244.91.77:46857?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--E1
 
 
