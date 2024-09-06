@@ -95,13 +95,3 @@ vless://a0efbfef-16ed-406d-95d9-d58de7e84955@70.34.220.22:54934?security=none&en
 
 vmess://eyJhZGQiOiI3MC4zNC4yMjAuMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzNiYzEzMjctYjhmYS00ZWY0LTg3YmEtMWVmNmUzNTA5Nzk5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzOTQ5MiIsInBzIjoi8J+HqfCfh6ooQEVzbWFpbF9hMjApLS1IMzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcE5aNHNQRjFTQy10Y2Nrb2JockFR@tunnel1.bluhearts.com:2611#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--H32
-
-
-vless://739c977f-181b-49ee-9e1f-65e8f30b26a3@i2.forredeye.com:20688?mode=gun&security=none&encryption=none&type=grpc&serviceName=20688vless#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--H33
-
-
-vless://739c977f-181b-49ee-9e1f-65e8f30b26a3@a2.forredeye.com:20688?mode=gun&security=none&encryption=none&type=grpc&serviceName=20688vless#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--H34
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcE5aNHNQRjFTQy10Y2Nrb2JockFR@tunnel7.bluhearts.com:2612#%F0%9F%87%A9%F0%9F%87%AA%28%40Esmail_a20%29--H35
