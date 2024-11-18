@@ -110,3 +110,9 @@ vless://7ddc4788-27f8-4213-b25d-7c5fa3423f2b@Germany1.fastly80-2.hosting-ip.com:
 
 
 vless://7ddc4788-27f8-4213-b25d-7c5fa3423f2b@Turkey.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Gain.com.&type=ws#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--S33
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SS1RWFVvR21wdHZYY0Z1eS1Td2tB@tunnel6.bluhearts.com:2616#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--S100
+
+vless://ff8979bf-46e7-4907-8ab5-13863639aa8e@s.forredeye.com:20688?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=20688vless#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--S101
+
+vless://ff8979bf-46e7-4907-8ab5-13863639aa8e@gr.forredeye.com:20688?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=20688vless#%F0%9F%87%A9%F0%9F%87%AA+%28%40Esmail_a20%29--S102
