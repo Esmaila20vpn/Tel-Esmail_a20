@@ -40,7 +40,25 @@ vless://b8af876d-85e9-4211-baf5-769cb8fae922@3535.need4music.ir:2052?mode=gun&se
 
 
 vless://b8af876d-85e9-4211-baf5-769cb8fae922@www.speedtest.net:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl.23.www.speedtest.net.zula.ir.mazraesheep.ir.max-ping.ir.&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%7C%40Esmail_a20%7C++%E2%80%A2+W10
+vless://861afa43-6a15-4903-ae07-2cb85316a53f@dr.defaheis.shop:7465?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA%7C%40Esmail_a20%7C++%E2%80%A2+W31
 
+
+vless://861afa43-6a15-4903-ae07-2cb85316a53f@dr.defaheis.shop:2030?security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%7C%40Esmail_a20%7C++%E2%80%A2+W32
+
+
+vless://861afa43-6a15-4903-ae07-2cb85316a53f@dr.defaheis.shop:8146?security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%7C%40Esmail_a20%7C++%E2%80%A2+W33
+
+
+vless://861afa43-6a15-4903-ae07-2cb85316a53f@dr.defaheis.shop:8146?security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%7C%40Esmail_a20%7C++%E2%80%A2+W34
+
+
+vmess://eyJhZGQiOiJkci5kZWZhaGVpcy5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFlYjFlN2Q2LTE5NjktNDZlNi1iYTBkLTUyMWY2MGVhMWI4MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTE3MCIsInBzIjoi8J+HqfCfh6p8QEVzbWFpbF9hMjB8ICDigKIgVzM1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+
+vmess://eyJhZGQiOiJkci5kZWZhaGVpcy5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFlYjFlN2Q2LTE5NjktNDZlNi1iYTBkLTUyMWY2MGVhMWI4MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjU3MyIsInBzIjoi8J+HqfCfh6p8QEVzbWFpbF9hMjB8ICDigKIgVzM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+
+vmess://eyJhZGQiOiJkci5kZWZhaGVpcy5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFlYjFlN2Q2LTE5NjktNDZlNi1iYTBkLTUyMWY2MGVhMWI4MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjU3MyIsInBzIjoi8J+HqfCfh6p8QEVzbWFpbF9hMjB8ICDigKIgVzM3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vless://b8af876d-85e9-4211-baf5-769cb8fae922@www.speedtest.net:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl.14.www.speedtest.net.zula.ir.mazraesheep.ir.max-ping.ir&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%7C%40Esmail_a20%7C++%E2%80%A2+W11
 
