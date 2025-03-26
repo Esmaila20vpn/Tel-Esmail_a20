@@ -9,8 +9,6 @@ vmess://eyJhZGQiOiJNciBARXNtYWlsX2EyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiJNciBARXNtYWlsX2EyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZWMyNjVkMi0xNDViLTRmMWEtOTlmYS1mYWFmNTgwYzdmOGMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6Itix2YjYstin2YbZhyDYotm+2K/bjNiqINqp2YbbjNivIOKcqOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-vless://d60e44f9-99fa-45e5-a6e8-e95631ce3e2b@username.com:6162?security=none&encryption=none&headerType=none&type=tcp#%D9%87%D9%85%D9%88%D8%A7%D8%B1%D9%87%20%D8%AF%D9%88%D8%B3%D8%AA%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85%20%D8%A7%DB%8C%D9%84%DB%8C%20%D8%AC%D9%88%D9%86%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
-
 
 
 
