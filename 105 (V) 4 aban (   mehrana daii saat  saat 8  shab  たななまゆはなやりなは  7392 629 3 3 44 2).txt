@@ -106,24 +106,4 @@ vless://8feac871-a2a4-623e-cdcc-450b361efa14@o9090.need9ping.ir:4444?mode=gun&se
 
 vless://8feac871-a2a4-623e-cdcc-450b361efa14@ns.cloudflare.com:8080?path=%2Fclose%F0%9F%91%A6%3Fed%3D8080&security=none&encryption=none&host=o9090.need9ping.ir.&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z32
 
-vless://e4260922-2b88-4049-aaff-790068b43bed@dgrns2.tracketbot.ir:8459?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z33
 
-
-
-vless://e4260922-2b88-4049-aaff-790068b43bed@dnlns2.tracketbot.ir:8459?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z34
-
-
-
-vless://e4260922-2b88-4049-aaff-790068b43bed@denns2.tracketbot.ir:8459?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z35
-
-
-
-vless://e4260922-2b88-4049-aaff-790068b43bed@dusns2.tracketbot.ir:5553?mode=gun&security=reality&encryption=none&pbk=Gs1WrG72yjLdETGEPviWTtxIcn0O5cpAcHR1Mi9v5j0&fp=chrome&type=grpc&sni=stackoverflow.com&sid=3bd518aa9b0d4e12#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z36
-
-
-
-vless://e4260922-2b88-4049-aaff-790068b43bed@www.speedtest.net:2082?path=%2FmusicSeKalaSpinningUploadEarshotSchematicPretenderPacifistEarthenVealPrisonBackdropSequelRetyingDecimalSmugglingResubmitCrustBacteriumAprilPromptlyClauseUnglueSecludedLadybugVisorDefrostSmogOvereagerVixenEnforcerRemarrySpottedDevoutlySarcasticUnknottedReclaimShowoffSuddenDawdlerRejoinZoningSeventyProvenAerosolCohesiveEmblazeAstrideHutPerfectlyThemeUnabashedSpiderQuarryOnionPangBarretteBoatDirectiveSwooshUpcomingTattle%3Fed%3D1048&security=none&encryption=none&host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.TracKetWeb.IR&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z37
-
-
-
-vless://e4260922-2b88-4049-aaff-790068b43bed@www.speedtest.net:2082?path=%2FmusicSeKalaSpinningUploadEarshotSchematicPretenderPacifistEarthenVealPrisonBackdropSequelRetyingDecimalSmugglingResubmitCrustBacteriumAprilPromptlyClauseUnglueSecludedLadybugVisorDefrostSmogOvereagerVixenEnforcerRemarrySpottedDevoutlySarcasticUnknottedReclaimShowoffSuddenDawdlerRejoinZoningSeventyProvenAerosolCohesiveEmblazeAstrideHutPerfectlyThemeUnabashedSpiderQuarryOnionPangBarretteBoatDirectiveSwooshUpcomingTattle%3Fed%3D1048&security=none&encryption=none&host=sardposhsoedposh-sardposhsoedposhsardposhsoedposhsardposshcd1.TracKetWeb.IR&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z38
