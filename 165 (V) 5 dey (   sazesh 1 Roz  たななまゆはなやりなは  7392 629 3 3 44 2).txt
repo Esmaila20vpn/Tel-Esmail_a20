@@ -116,7 +116,7 @@ vless://b63ea566-65f3-1074-8151-396ad3fee999@ns.cloudflare.com:8080?path=%2Fclos
 
 
 
-vless://e4260922-2b88-4049-aaff-790068b43bed@dgrns2.tracketbot.ir:8459?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D35
+vless://e4260922-2b88-4049-aaff-790068b43bed@dgrns2.tracketbot.ir:8459?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Q35
 vless://e4260922-2b88-4049-aaff-790068b43bed@dnlns2.tracketbot.ir:8459?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Q36
 
 
