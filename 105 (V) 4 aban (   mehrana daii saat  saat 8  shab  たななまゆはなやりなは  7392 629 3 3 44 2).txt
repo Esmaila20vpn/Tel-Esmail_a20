@@ -10,6 +10,10 @@ vmess://eyJhZGQiOiJNciBARXNtYWlsX2EyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiJNciBARXNtYWlsX2EyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZWMyNjVkMi0xNDViLTRmMWEtOTlmYS1mYWFmNTgwYzdmOGMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6Itix2YjYstin2YbZhyDYotm+2K/bjNiqINqp2YbbjNivIOKcqOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 
+vless://675537c4-5916-446f-b90d-15f64f3ccf67@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&encryption=none&host=s2.cdn.hulkirani.shop&type=ws&sni=mydigipay.com#%E2%8C%9B%20%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%20%D8%A7%D9%86%D9%82%D8%B6%D8%A7%20%3A%201404%2C4%2C4
+
+
+
 
 
 vless://615b21f9-83f2-f117-9136-a4afad98f2a8@tur9595.need9ping.ir:4444?mode=gun&security=none&encryption=none&authority=tur9595.need9ping.ir&type=grpc&serviceName=8880vless#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20M1
