@@ -1,4 +1,4 @@
-
+vless://600b904c-b259-4590-b49c-826416eb9b2c@lovetea.portalamozesh.ir:1286?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#%F0%9F%9F%A2%20id%3Aes_mani%20%7C%20Us%3A0%20B%20%7C%205%20Day%20%20%F0%9F%87%A9%F0%9F%87%AA
 
 
 
