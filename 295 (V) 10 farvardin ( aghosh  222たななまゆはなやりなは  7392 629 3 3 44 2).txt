@@ -120,3 +120,7 @@ vless://880e6eb4-cd0d-4c10-9001-ce8ef48d6ceb@www.speedtest.net:2095?path=%2F%3Fe
 
 
 vless://880e6eb4-cd0d-4c10-9001-ce8ef48d6ceb@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=sardposhsoedposh-sardposhsoedposhsardposhsoedposhsardposshcd1.blAcKpaPErs.IR&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20T35
+
+
+vless://1092b1a6-2d53-3fb3-6430-d0af7283d77c@ma3.reactjsworld.com:80?mode=auto&path=%2Fadmin&security=none&encryption=none&host=FanMadeswis.global.ssl.fastly.net%3A33695&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20T36
+
