@@ -1,6 +1,3 @@
-in-tadrisonlin-tadrisonlinCD1.kiWiJuiCe.IR&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D44
-
-
 
 
 
@@ -154,4 +151,4 @@ vless://105c3337-18f3-4cda-975d-eb8189181417@grs.zdshop.ir:80?mode=packet-up&pat
 vless://105c3337-18f3-4cda-975d-eb8189181417@system.zdshop.ir:2095?path=%2F&security=none&encryption=none&host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.kiWiJuiCe.IR&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D44
 
 
-vless://105c3337-18f3-4cda-975d-eb8189181417@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.spEeDGo.IR.&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D45vless://105c3337-18f3-4cda-975d-eb8189181417@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.spEeDGo.IR.&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D45
+vless://105c3337-18f3-4cda-975d-eb8189181417@www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.spEeDGo.IR.&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D45
