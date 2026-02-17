@@ -15,89 +15,69 @@ vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@0.0.0.0:7052?security=none&encrypti
 
 
 
+vless://1f35308f-188c-4d37-8551-37936fd63c83@Eng.maralfood1i.ir:2096?security=reality&encryption=none&pbk=DN7tDB0l1HFkh0qBrpRgV6faev2VUtpC3TSxE_OTDV4&headerType=none&type=tcp&sni=yahoo.com&sid=be0ed2bb82268763#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z1
 
 
-vless://9831fdbd-5c13-455e-b58b-b2eb0ba83201@156.239.154.206:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vip.netifyfast.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D1
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@dgrns1.vertalist.ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z2
 
 
-vless://9831fdbd-5c13-455e-b58b-b2eb0ba83201@2sudo.winapp3.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdnusa.fastmarz.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdnusa.fastmarz.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D2
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@grs.zdshop.ir:80?path=%2Fed%3D2560&security=none&encryption=none&host=okpan3musicgr.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z3
 
 
-vless://9831fdbd-5c13-455e-b58b-b2eb0ba83201@2app.star-direct.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdnusa.fastmarz.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdnusa.fastmarz.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D3
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@nls.zdshop.ir:80?path=%2Fed%3D2560&security=none&encryption=none&host=okpan3musicnl.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z4
 
 
-vless://9831fdbd-5c13-455e-b58b-b2eb0ba83201@tunnel.fasterthanyou.ir:2096?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D4
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@ens.zdshop.ir:80?path=%2Fed%3D2560&security=none&encryption=none&host=okpan3musicen.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z5
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@dgrns1.vertalist.ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D5
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@ses.zdshop.ir:80?path=%2Fed%3D2560&security=none&encryption=none&host=okpan3musicse.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z6
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=enns.kiwijuice.ir&type=ws&allowInsecure=0&sni=enns.kiwijuice.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D6
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@frs.zdshop.ir:80?path=%2Fed%3D2560&security=none&encryption=none&host=okpan3musicfr.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z7
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=sens-2.certhost.ir&type=ws&allowInsecure=0&sni=sens-2.certhost.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D7
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@its.zdshop.ir:80?path=%2Fed%3D2560&security=none&encryption=none&host=okpan3musicit.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z8
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D8
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-eN-2.kiWiJuiCe.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-eN-2.kiWiJuiCe.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z9
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D9
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-sE-2.CeRthOSt.iR&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-sE-2.CeRthOSt.iR#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z10
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=enns.kiwijuice.ir&type=ws&allowInsecure=0&sni=enns.kiwijuice.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D10
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-iT-2.blAcKpaPErs.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-iT-2.blAcKpaPErs.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z11
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=sens-2.certhost.ir&type=ws&allowInsecure=0&sni=sens-2.certhost.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D11
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-fR-2.ceRtHoSt.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-fR-2.ceRtHoSt.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z12
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D12
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-eN-2.kiWiJuiCe.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-eN-2.kiWiJuiCe.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z13
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D13
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-sE-2.CeRthOSt.iR&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-sE-2.CeRthOSt.iR#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z14
+
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-iT-2.blAcKpaPErs.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-iT-2.blAcKpaPErs.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z15
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=enns.kiwijuice.ir&type=ws&allowInsecure=0&sni=enns.kiwijuice.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D14
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@shield.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-fR-2.ceRtHoSt.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-fR-2.ceRtHoSt.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z16
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=sens-2.certhost.ir&type=ws&allowInsecure=0&sni=sens-2.certhost.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D15
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-eN-2.kiWiJuiCe.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-eN-2.kiWiJuiCe.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z17
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D16
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D17
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-sE-2.CeRthOSt.iR&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-sE-2.CeRthOSt.iR#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z18
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-enns.kiwijuice.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D18
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-iT-2.blAcKpaPErs.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-iT-2.blAcKpaPErs.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z19
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-sens.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D19
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-fR-2.ceRtHoSt.IR.&type=ws&allowInsecure=0&sni=taDRisOnlIn-taDRisOnlIn-taDRisOnlIn-taDRisOnlInCD1-NeW-fR-2.ceRtHoSt.IR.#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z20
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-itns.blackpapers.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D20
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-sens-2.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z21
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D21
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-sens-2.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z22
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-enns.kiwijuice.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D22
-
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-sens.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D23
-
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-itns.blackpapers.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D24
-
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D25
-
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@legend.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-enns.kiwijuice.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D26
-
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@legend.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-sens.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D27
-
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@legend.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-itns.blackpapers.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D28
-
-
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@legend.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=sjcahbjhdbfvksfhkvbhskkskhvbhfhkvbshksfbfvkhfbkhfbvkfskbvfr.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D29
+vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@legend.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-sens-2.certhost.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20Z23
