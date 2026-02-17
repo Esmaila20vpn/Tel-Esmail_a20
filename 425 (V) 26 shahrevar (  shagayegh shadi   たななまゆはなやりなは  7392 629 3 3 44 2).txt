@@ -11,7 +11,7 @@ vmess://eyJhZGQiOiJNciBARXNtYWlsX2EyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 
 
-vless://f6df223d-80a5-4118-81e8-7a8e8bd02741@0.0.0.0:7052?security=none&encryption=none&type=ws#%E2%9D%8C%E2%9D%8C%20%D8%AA%D8%B3%D8%AA%20%D9%BE%DB%8C%D9%86%DA%AF%20%D8%A8%DA%AF%DB%8C%D8%B1%DB%8C%D8%AF%20%E2%9D%8C%E2%9D%8C%E2%9D%8C
+
 vless://d4bc2d20-ed3d-4c15-be86-35eb21be3581@0.0.0.0:7052?security=none&type=ws&headerType=&path=&host=#%F0%9F%92%AB%20rafeiee%20%7C%20%E2%8F%B3%2026%20days%20%7C%20%F0%9F%93%8A%2031.36%20GB%20/%20%E2%88%9E
 vless://d4bc2d20-ed3d-4c15-be86-35eb21be3581@dgrns1.vertalist.ir:1310?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%92%AB%20GR1%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7
 vless://d4bc2d20-ed3d-4c15-be86-35eb21be3581@grs.zdshop.ir:80?security=none&type=ws&headerType=&path=%2Fed%3D2560&host=okpan3musicgr.global.ssl.fastly.net#%F0%9F%92%AB%20GR2%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
