@@ -1,4 +1,4 @@
-
+vless://e7e5a8ea-5866-473a-90af-3852b46daec@dgrns1.vertalist.ir:1310?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%92%AB%20GR1%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D9%87%D9%85%D9%87%20%D9%86%D8%AA%20%D9%87%D8%A7
 
 
 
