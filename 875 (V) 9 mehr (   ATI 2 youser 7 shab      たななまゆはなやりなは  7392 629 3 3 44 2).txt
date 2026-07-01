@@ -9,62 +9,46 @@ vmess://eyJhZGQiOiJNciBARXNtYWlsX2EyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 
 
-
- vless://90a8e92b-5261-4058-941e-5779b2620aad@3eaa9d10991af30e.RaVeNlO.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F1
-
-
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=5e06c63785481375.bidaplay.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F2
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@c7ba0406e7cbedc0.RaVeNlO.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D1
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@40546dcaaaee482f.rICKunIVerSIty.Ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F3
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@5bbe3abe4722e33e.B1DoWNlOAd.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D2
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@ff0e0b2baaaf2fda.iRoNlY4l.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F4
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@c87b49fd4ac702b3.VIDaSuNiVErSIty.Ir:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D3
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@4b8b689891a64282.B1DoWNlOAd.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F5
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@a97893a9ef76a2a9.iRoNlY4l.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D4
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@5ecc1aec879332da.vErTateCH.iR:1310?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F6
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=a0b99dfbe9496fcd.bidacom.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D5
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=fcf212fcce235112.dailygo.ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F7
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=7c4770c2f9a54877.dailygo.ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D6
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psc-2.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=bbdfaafed0cd5d11.bidaplay.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F8
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psc-2.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=f8afa4100c1271a2.bidacom.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D7
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psc-2.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=6cf3c1aea397cc87.dailygo.ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F9
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psc-2.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=431fd5ece020f0d3.dailygo.ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D8
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psc-3.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=4cb902ac5716828f.bidaplay.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F10
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psc-3.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=3cff4daf720d2767.bidacom.ir#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D9
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psc-3.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=228194251f1b27a0.dailygo.ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F11
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psc-3.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=0815373f7fab953b.dailygo.ir#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D10
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F12
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D11
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psf-1.zdshop.ir:80?security=none&encryption=none&host=machinemag.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F13
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psf-1.zdshop.ir:80?security=none&encryption=none&host=machinemag.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D12
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psf-2.zdshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mX-prO-WeB-Nine-Xh-Gr.gLOBaL.SSl.FAStly.NEt&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F14
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psf-2.zdshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mX-prO-WeB-Nine-Xh-Gr.gLOBaL.SSl.FAStly.NEt&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D13
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psf-2.zdshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mX-prO-WeB-Nine-Xh-Nl.gLOBaL.SSl.FAStly.NEt&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F15
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psf-2.zdshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mX-prO-WeB-Nine-Xh-Nl-nEW-wOrLD.gLOBaL.SSl.FAStly.NEt&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D14
 
 
-vless://90a8e92b-5261-4058-941e-5779b2620aad@psf-2.zdshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mX-prO-WeB-Nine-Xh-En.gLOBaL.SSl.FAStly.NEt&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F16
-
-
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.72.162:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv37.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv37.hamiibar.com#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F17
-
-
-vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@185.147.27.105:80?path=%2F&security=none&encryption=none&fp=firefox&type=ws#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F18
-
-
-vless://a51f87d2-3cdd-48ed-9e82-b758b42cdb96@cctvhikvision.center:2052?path=%2Fapi-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F19
-
-
-vless://a51f87d2-3cdd-48ed-9e82-b758b42cdb96@hikvision-plus.com:2052?path=%2Fapi-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20F20
+vless://296d46da-1745-4fed-ba9c-e5a971bf7c65@psf-2.zdshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=mX-prO-WeB-Nine-Xh-En.gLOBaL.SSl.FAStly.NEt&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20D15
