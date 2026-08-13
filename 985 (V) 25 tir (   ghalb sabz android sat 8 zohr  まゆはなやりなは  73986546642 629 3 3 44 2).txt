@@ -107,3 +107,16 @@ vless://d15683c5-51c4-4b49-9e88-948f410eb2d6@psf-2.zdshop.ir:80?security=none&en
 
 
 vless://d15683c5-51c4-4b49-9e88-948f410eb2d6@psf-2.zdshop.ir:80?security=none&encryption=none&host=machinemag.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20O32%20%20%7C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
+
+
+
+
+vless://387b1070-d796-41af-9163-ae9c5b7c6699@dedi.marquvo.ir:9090?security=none&encryption=mlkem768x25519plus.native.0rtt.vTufK_YhctFAaAi4PPDKCqpq5fgrTWeKuT6zhXRc9Gk&host=diwork.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20O33%20%7C%20%D9%88%DB%8C%DA%98%D9%87
+
+
+
+vless://387b1070-d796-41af-9163-ae9c5b7c6699@usdi.marquvo.ir:9090?security=none&encryption=mlkem768x25519plus.native.0rtt.vTufK_YhctFAaAi4PPDKCqpq5fgrTWeKuT6zhXRc9Gk&host=diwork.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20O34%20%7C%20%D9%88%DB%8C%DA%98%D9%87
+
+
+
+vless://387b1070-d796-41af-9163-ae9c5b7c6699@trre.marquvo.ir:9090?security=none&encryption=mlkem768x25519plus.native.0rtt.vTufK_YhctFAaAi4PPDKCqpq5fgrTWeKuT6zhXRc9Gk&host=diwork.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%E2%94%8B%40Esmail_a20%E2%94%8B%20%E2%80%A2%20O35%20%7C%20%D9%88%DB%8C%DA%98%D9%87
